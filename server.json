@@ -1,0 +1,204 @@
+{
+    "tags": [
+        {
+            "title": "React",
+            "amountOfVideos": 98
+        },
+        {
+            "title": "Vue.js",
+            "amountOfVideos": 123
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 54
+        },
+        {
+            "title": "Svelte",
+            "amountOfVideos": 146
+        },
+        {
+            "title": "Ember.js",
+            "amountOfVideos": 87
+        },
+        {
+            "title": "Backbone.js",
+            "amountOfVideos": 72
+        },
+        {
+            "title": "Preact",
+            "amountOfVideos": 105
+        },
+        {
+            "title": "Meteor",
+            "amountOfVideos": 131
+        },
+        {
+            "title": "Aurelia",
+            "amountOfVideos": 114
+        },
+        {
+            "title": "Polymer",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "Stencil.js",
+            "amountOfVideos": 92
+        },
+        {
+            "title": "Alpine.js",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "Marko",
+            "amountOfVideos": 99
+        },
+        {
+            "title": "Mithril",
+            "amountOfVideos": 65
+        },
+        {
+            "title": "Riot.js",
+            "amountOfVideos": 110
+        },
+        {
+            "title": "Sapper",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Inferno",
+            "amountOfVideos": 73
+        },
+        {
+            "title": "Nuxt.js",
+            "amountOfVideos": 118
+        },
+        {
+            "title": "Next.js",
+            "amountOfVideos": 103
+        },
+        {
+            "title": "Gatsby",
+            "amountOfVideos": 79
+        },
+        {
+            "title": "React Native",
+            "amountOfVideos": 94
+        },
+        {
+            "title": "AngularJS",
+            "amountOfVideos": 117
+        },
+        {
+            "title": "Vue 3",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "SvelteKit",
+            "amountOfVideos": 139
+        },
+        {
+            "title": "Backbone.Marionette",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "Ractive.js",
+            "amountOfVideos": 71
+        },
+        {
+            "title": "NestJS",
+            "amountOfVideos": 102
+        },
+        {
+            "title": "Ember Octane",
+            "amountOfVideos": 128
+        },
+        {
+            "title": "Solid.js",
+            "amountOfVideos": 97
+        },
+        {
+            "title": "Polythene",
+            "amountOfVideos": 76
+        },
+        {
+            "title": "Stencil",
+            "amountOfVideos": 85
+        },
+        {
+            "title": "A-Frame",
+            "amountOfVideos": 111
+        },
+        {
+            "title": "Mithril.js",
+            "amountOfVideos": 69
+        },
+        {
+            "title": "Hyperapp",
+            "amountOfVideos": 96
+        },
+        {
+            "title": "Quasar Framework",
+            "amountOfVideos": 77
+        },
+        {
+            "title": "Moon.js",
+            "amountOfVideos": 114
+        },
+        {
+            "title": "Hullabaloo",
+            "amountOfVideos": 89
+        },
+        {
+            "title": "Spine.js",
+            "amountOfVideos": 74
+        },
+        {
+            "title": "VuePress",
+            "amountOfVideos": 119
+        },
+        {
+            "title": "Cycle.js",
+            "amountOfVideos": 104
+        },
+        {
+            "title": "Knockout.js",
+            "amountOfVideos": 80
+        },
+        {
+            "title": "Ampersand.js",
+            "amountOfVideos": 95
+        },
+        {
+            "title": "Feathers",
+            "amountOfVideos": 122
+        },
+        {
+            "title": "KeystoneJS",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Total.js",
+            "amountOfVideos": 84
+        },
+        {
+            "title": "NuxtPress",
+            "amountOfVideos": 109
+        },
+        {
+            "title": "Riot",
+            "amountOfVideos": 75
+        },
+        {
+            "title": "AngularDart",
+            "amountOfVideos": 88
+        },
+        {
+            "title": "Marko.js",
+            "amountOfVideos": 113
+        },
+        {
+            "title": "Sapper",
+            "amountOfVideos": 81
+        }
+    ]
+}
